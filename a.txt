@@ -5,12 +5,11 @@ heiio
 hello:
 
 
-nihao
-
-
-
-
 xiaohzi
+<<<<<<< HEAD
 hahaha
 hflggdagkjd
 adfdASFDFDasdva
+=======
+aaaaaaaaaaa
+>>>>>>> 8af2b93c69fcbb9168eec12b8195689104c4850a
